@@ -1,5 +1,6 @@
 package PUT;
 
+import Student_Model.Base;
 import Student_Model.Student;
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
@@ -8,15 +9,15 @@ import org.testng.annotations.Test;
 
 import java.util.ArrayList;
 
-public class PUT_Test {
+public class PUT_Test extends Base{
 
-    @BeforeClass
-    public static void init() {
-
-        RestAssured.baseURI = "http://localhost";
-        RestAssured.port = 8080;
-        RestAssured.basePath = "/student";
-    }
+//    @BeforeClass
+//    public static void init() {
+//
+//        RestAssured.baseURI = "http://localhost";
+//        RestAssured.port = 8080;
+//        RestAssured.basePath = "/student";
+//    }
 
     @Test
     public void updateStudentInfo(){

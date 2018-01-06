@@ -1,19 +1,20 @@
 package GET;
 
+import Student_Model.Base;
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-public class GET_Test {
+public class GET_Test extends Base{
 
-    @BeforeClass
-    public static void init() {
-
-        RestAssured.baseURI = "http://localhost";
-        RestAssured.port = 8080;
-        RestAssured.basePath = "/student";
-    }
+//    @BeforeClass
+//    public static void init() {
+//
+//        RestAssured.baseURI = "http://localhost";
+//        RestAssured.port = 8080;
+//        RestAssured.basePath = "/student";
+//    }
 
     @Test
     public void getAllStudentInformation() {
