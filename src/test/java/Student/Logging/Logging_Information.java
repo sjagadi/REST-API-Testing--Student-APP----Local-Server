@@ -38,4 +38,19 @@ public class Logging_Information extends Base{
                 .body()
                 .statusCode(200);
     }
+
+    @Test
+    public void test003() {
+
+        System.out.println("------------Printing Response Error-------------");
+
+        given()
+                .param("proramme", "Computer Science")
+                .param("limit", -1)
+                .when()
+                .get("/list")
+                .then()
+                .log()
+                .ifError();
+    }
 }
