@@ -2,21 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ed40e81-5c02-488e-bac4-1faed5389f6a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/JSON_Assert_Example/Json_assert.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Student_Model/Base.class" afterPath="$PROJECT_DIR$/target/classes/Student_Model/Base.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Student_Model/Student.class" afterPath="$PROJECT_DIR$/target/classes/Student_Model/Student.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/DELETE/Delete_test.class" afterPath="$PROJECT_DIR$/target/test-classes/DELETE/Delete_test.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/GET/GET_Test.class" afterPath="$PROJECT_DIR$/target/test-classes/GET/GET_Test.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/PATCH/Patch_Test.class" afterPath="$PROJECT_DIR$/target/test-classes/PATCH/Patch_Test.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/POST/POST_Test.class" afterPath="$PROJECT_DIR$/target/test-classes/POST/POST_Test.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/PUT/PUT_Test.class" afterPath="$PROJECT_DIR$/target/test-classes/PUT/PUT_Test.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/Student/Logging/Logging.class" afterPath="$PROJECT_DIR$/target/test-classes/Student/Logging/Logging.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/Student/Logging/Logging_Information.class" afterPath="$PROJECT_DIR$/target/test-classes/Student/Logging/Logging_Information.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/JSON_Assert_Example/Json_assert.class" afterPath="$PROJECT_DIR$/target/test-classes/JSON_Assert_Example/Json_assert.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REstAssured.iml" afterPath="$PROJECT_DIR$/REstAssured.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file.txt" afterPath="$PROJECT_DIR$/file.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/JSON_Assert_Example/Json_assert.java" afterPath="$PROJECT_DIR$/src/test/java/JSON_Assert_Example/Json_assert.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -32,8 +24,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1173">
-              <caret line="51" column="20" lean-forward="false" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
+            <state relative-caret-position="1633">
+              <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -42,11 +34,21 @@
       <file leaf-file-name="Json_assert.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/JSON_Assert_Example/Json_assert.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="21" column="38" lean-forward="false" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+            <state relative-caret-position="273">
+              <caret line="29" column="29" lean-forward="false" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="file.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/file.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="446">
+              <caret line="0" column="18578" lean-forward="false" selection-start-line="0" selection-start-column="18578" selection-end-line="0" selection-end-column="18578" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -101,6 +103,7 @@
         <option value="$PROJECT_DIR$/src/test/java/Student/Logging/Logging.java" />
         <option value="$PROJECT_DIR$/src/test/java/Student/Logging/Logging_Information.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/file.txt" />
         <option value="$PROJECT_DIR$/src/test/java/JSON_Assert_Example/Json_assert.java" />
       </list>
     </option>
@@ -127,6 +130,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -185,10 +191,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -484,35 +487,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Json_assert_getStudents - 2018.01.07 at 15h 08m 44s.xml">
+    <history-entry file="Json_assert_getStudents - 2018.01.07 at 16h 08m 12s.xml">
       <configuration name="Json_assert.getStudents" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Logging_test002 - 2018.01.06 at 00h 20m 02s.xml">
-      <configuration name="Logging.test002" configurationId="TestNG" />
+    <history-entry file="Json_assert_getStudents - 2018.01.07 at 16h 08m 34s.xml">
+      <configuration name="Json_assert.getStudents" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Logging_test002 - 2018.01.06 at 00h 22m 54s.xml">
-      <configuration name="Logging.test002" configurationId="TestNG" />
+    <history-entry file="Json_assert_getStudents - 2018.01.07 at 16h 09m 33s.xml">
+      <configuration name="Json_assert.getStudents" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Logging_test002 - 2018.01.06 at 13h 17m 49s.xml">
-      <configuration name="Logging.test002" configurationId="TestNG" />
+    <history-entry file="Json_assert_getStudents - 2018.01.07 at 16h 11m 38s.xml">
+      <configuration name="Json_assert.getStudents" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Logging_test003 - 2018.01.06 at 00h 28m 00s.xml">
-      <configuration name="Logging.test003" configurationId="TestNG" />
+    <history-entry file="Json_assert_getStudents - 2018.01.07 at 16h 12m 05s.xml">
+      <configuration name="Json_assert.getStudents" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Logging_test004 - 2018.01.06 at 00h 30m 22s.xml">
-      <configuration name="Logging.test004" configurationId="TestNG" />
+    <history-entry file="Json_assert_getStudents - 2018.01.07 at 16h 24m 14s.xml">
+      <configuration name="Json_assert.getStudents" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Logging_test004 - 2018.01.06 at 00h 31m 32s.xml">
-      <configuration name="Logging.test004" configurationId="TestNG" />
+    <history-entry file="Json_assert_getStudents - 2018.01.07 at 16h 27m 36s.xml">
+      <configuration name="Json_assert.getStudents" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Logging_test005 - 2018.01.06 at 00h 35m 09s.xml">
-      <configuration name="Logging.test005" configurationId="TestNG" />
+    <history-entry file="Json_assert_getStudents - 2018.01.07 at 16h 29m 04s.xml">
+      <configuration name="Json_assert.getStudents" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Logging_test005 - 2018.01.06 at 00h 36m 49s.xml">
-      <configuration name="Logging.test005" configurationId="TestNG" />
+    <history-entry file="Json_assert_getStudents - 2018.01.07 at 16h 30m 50s.xml">
+      <configuration name="Json_assert.getStudents" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Logging_test005 - 2018.01.06 at 00h 37m 55s.xml">
-      <configuration name="Logging.test005" configurationId="TestNG" />
+    <history-entry file="Json_assert_getStudents - 2018.01.07 at 16h 31m 05s.xml">
+      <configuration name="Json_assert.getStudents" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -521,17 +524,18 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294423" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294423" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3294423" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294423" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22590362" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22570772" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -542,7 +546,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294423" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -555,6 +558,32 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/GET/GET_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Student_Model/Base.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/JSON_Assert_Example/Json_assert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1173">
@@ -849,21 +878,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1173">
-          <caret line="51" column="20" lean-forward="false" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Student/Logging/Logging.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="529">
@@ -894,10 +908,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1633">
+          <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="0" column="18578" lean-forward="false" selection-start-line="0" selection-start-column="18578" selection-end-line="0" selection-end-column="18578" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/JSON_Assert_Example/Json_assert.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="21" column="38" lean-forward="false" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+        <state relative-caret-position="273">
+          <caret line="29" column="29" lean-forward="false" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
